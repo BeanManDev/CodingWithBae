@@ -1,3 +1,7 @@
 body {
-background: #22202f;
+  background: #22202f;
 }
+
+#top-div {
+  background: #ff00ff;
+  color: #294419;
